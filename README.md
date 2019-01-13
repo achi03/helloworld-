@@ -5,7 +5,7 @@
 
 ----
 
-# JANGAN LUPA ADD [ADITMADZS BOT](line.me/ti/p/~botaditmadzs)
+# JANGAN LUPA ADD [ACHI BOT](line.me/ti/p/~botaditmadzs)
 
 ## Termux
 
@@ -14,7 +14,7 @@ $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/Aditmadzs/helloworld
+$ git clone https://github.com/achi03/helloworld-.git
 $ cd helloworld
 $ pip3 install akad
 $ pip3 install beautifulsoup4
@@ -53,7 +53,7 @@ $ python3 helloworld.py
 ## VPS
 
 ```sh
-$ git clone https://github.com/Aditmadzs/helloworld
+$ git clone https://github.com/achi03/helloworld-.git
 $ cd helloworld
 $ python3 -m pip install -r requirements.txt
 $ python3 helloworld.py -a IOSIPAD
